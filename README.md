@@ -1,5 +1,8 @@
-# heavy-defence
-yes this is a yet another unfinished project cry about it
+# Heavy Defences
+**FROZEN UNTIL VALVE GIVES A GREEN LIGHT**
+
+# Idea
+You control 6 mercenaries as they fight robots
 
 # License
 Heavy Defence © DaDescriptor 2024. All rights reserved.  
